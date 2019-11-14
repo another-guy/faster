@@ -1,0 +1,34 @@
+{
+    "name": "faster",
+    "displayName": "faster",
+    "icon": "images/logo.png",
+    "description": "Productivity extensions for front end development via TypeScript.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.33.0"
+    },
+    "author": {
+        "name": "Igor Soloydenko",
+        "email": "soloydenko@gmail.com",
+        "url": "https://soloydenko.com/"
+    },
+    "publisher": "another-guy",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/another-guy/faster.git"
+    },
+    "keywords": [
+        "TypeScript",
+        "ts",
+        "Extension Packs"
+    ],
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+      "another-guy.jest-faster",
+      "igorsoloydenko.react-faster"
+    ],
+    "contributes": {
+    }
+}
