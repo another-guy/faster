@@ -27,7 +27,7 @@
     ],
     "extensionPack": [
       "another-guy.jest-faster",
-      "igorsoloydenko.react-faster"
+      "another-guy.react-faster"
     ],
     "contributes": {
     }
